@@ -1,0 +1,1 @@
+# prisma-d1-migrator
